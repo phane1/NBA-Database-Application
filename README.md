@@ -10,7 +10,7 @@ The primary objective of this application is to alleviate this burden by providi
 
 ## Information
 
-![ER Diagram](/NBA-Database-Application/PDFs/ER%20Diagram.pdf)
+![ER Diagram](/NBA-Database-Application/Files/ER%20Diagram-1.png)
 
 ## Setup
 
