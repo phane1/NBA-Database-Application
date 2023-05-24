@@ -8,6 +8,10 @@ NBA fantasy leagues have gained widespread popularity, much like fantasy leagues
 
 The primary objective of this application is to alleviate this burden by providing users with a streamlined solution. It allows users to easily access and look up highly specific statistics tailored to their needs. By eliminating the need for manual calculations, the application aims to enhance the overall user experience and save valuable time, thereby making the fantasy league journey more enjoyable and rewarding.
 
+## Information
+
+![ER Diagram](/NBA-Database-Application/PDFs/ER%20Diagram.pdf)
+
 ## Setup
 
 1. Make sure you have Python installed
